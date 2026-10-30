@@ -25,7 +25,7 @@
 
 | 概览 | 持仓 | 分析 | 设置 |
 | :---: | :---: | :---: | :---: |
-| <img src="landing/assets/overview.png" width="220" alt="概览" /> | <img src="landing/assets/stock.png" width="220" alt="持仓" /> | <img src="landing/assets/analysis.png" width="220" alt="分析" /> | <img src="landing/assets/settings.png" width="220" alt="设置" /> |
+| <img src="https://chaohuiguan.pages.dev/assets/overview.png" width="220" alt="概览" /> | <img src="https://chaohuiguan.pages.dev/assets/stock.png" width="220" alt="持仓" /> | <img src="https://chaohuiguan.pages.dev/assets/analysis.png" width="220" alt="分析" /> | <img src="https://chaohuiguan.pages.dev/assets/settings.png" width="220" alt="设置" /> |
 | 总资产、净资产、资产构成、本月收支 | 七类资产分页管理，表头排序 | 账面收益、盈亏结构与分类收益 | 主题、货币、安全、备份与更新 |
 
 ## 功能
