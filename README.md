@@ -2,7 +2,7 @@
   <img src="https://chaohuiguan.pages.dev/assets/icon.png" width="88" alt="超会管图标" />
 </p>
 
-<h1 align="center">超会管 · NetWorth</h1>
+<h1 align="center">超会管</h1>
 
 <p align="center">让每一笔资产都清晰可见</p>
 
