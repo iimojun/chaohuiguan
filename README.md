@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="landing/assets/icon.png" width="88" alt="超会管图标" />
+  <img src="https://chaohuiguan.pages.dev/assets/icon.png" width="88" alt="超会管图标" />
 </p>
 
 <h1 align="center">超会管 · NetWorth</h1>
